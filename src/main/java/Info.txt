@@ -1,0 +1,4 @@
+udoy,+8801811111111,1234,House,Male
+ayon,+8801811111112,1235,House,Male
+arpita,+8801811111113,1236,Business,Female
+arnob,+8801811111114,1237,Business,Male
